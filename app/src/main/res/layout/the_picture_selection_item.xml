@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:descendantFocusability="blocksDescendants">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="85dp">
+
+        <ImageView
+            android:id="@+id/child_image"
+            android:layout_width="fill_parent"
+            android:layout_height="85dp"
+            android:background="#ffffff"
+            android:scaleType="centerCrop" />
+
+        <ImageView
+            android:id="@+id/child_gouxuan"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignParentRight="true"
+            android:layout_margin="1dp"
+            android:scaleType="centerCrop"
+            android:src="@mipmap/weigouxuan"
+            android:visibility="visible" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/cameraview"
+        android:layout_width="fill_parent"
+        android:layout_height="85dp"
+        android:background="#cccccc"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+            android:scaleType="center"
+            android:src="@mipmap/xiangji_add"
+            android:visibility="visible" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="拍照"
+            android:textColor="#ffffff"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+
+</RelativeLayout>

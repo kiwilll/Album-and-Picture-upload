@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/album/kiwilll/com/album/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/album/kiwilll/com/album/UploadMainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/album/kiwilll/com/album/adapter/AlbumAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/album/kiwilll/com/album/adapter/MyGridAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/album/kiwilll/com/album/adapter/PicSelectAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/album/kiwilll/com/album/model/AlbumBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/album/kiwilll/com/album/model/ImageBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/album/kiwilll/com/album/model/ImageModel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/album/kiwilll/com/album/tool/AlbumHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/album/kiwilll/com/album/tool/Config.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/album/kiwilll/com/album/tool/FileUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/album/kiwilll/com/album/tool/MyBimp.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/album/kiwilll/com/album/tool/NativeImageLoader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/album/kiwilll/com/album/tool/ParcelUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/album/kiwilll/com/album/tool/UploadTool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/list_dir.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/list_dir_item.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/the_picture_selection.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/the_picture_selection_item.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/gouxuan.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/pic_dir.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/weigouxuan.png" charset="UTF-8" />
+  </component>
+</project>
